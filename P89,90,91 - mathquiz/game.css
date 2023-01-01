@@ -1,0 +1,45 @@
+body
+{
+	background: rgb(255, 87, 87);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: transparent;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		zoom: 200%;
+		color: white;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#answer
+{
+	width: 60%;
+}
+#question
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+}
+
+h3, span{
+	color: white;
+}
+
+.button{
+	zoom: 200%;
+}
